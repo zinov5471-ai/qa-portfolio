@@ -15,7 +15,7 @@ Telegram Mini App (HTML/CSS/JS) с гайдами по игре Heroes of Might 
 - 🤖 Продукт (бот): https://t.me/OldenEraCourseBot
 - 💻 Исходный код продукта: https://github.com/zinov5471-ai/olden-era-course
 - 📁 Это портфолио (тест-артефакты): https://github.com/zinov5471-ai/qa-portfolio
-- Период разработки по истории коммитов: 21.07.2026 – 12.09.2026, 97 коммитов
+- Период разработки по истории коммитов: 05.05.2026 – 12.09.2026, 97 коммитов
 
 ## Что внутри
 
