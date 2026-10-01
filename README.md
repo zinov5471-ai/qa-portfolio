@@ -1,7 +1,7 @@
 # QA-портфолио: Telegram Mini App «Olden Era Course»
 
 **Автор:** Сергей Зинов · Junior QA (ручное тестирование)
-**Контакты:** [https://spb.hh.ru/resume/0fe67315ff0f97db0a0039ed1f50794a413142 / Telegram: @Uml85]
+**Контакты:** HH.ru https://spb.hh.ru/resume/0fe67315ff0f97db0a0039ed1f50794a413142 / Telegram: @Uml85
 
 ## О проекте
 
